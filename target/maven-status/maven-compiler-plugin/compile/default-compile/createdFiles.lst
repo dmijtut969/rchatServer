@@ -1,0 +1,3 @@
+controller\NotificationController.class
+api\Notification.class
+application\RestApplication.class
